@@ -278,9 +278,9 @@ main {
 
 
 #planes p {
-    font-size: 40px;
+    font-size: 30px;
     text-align: justify;
-    margin: 10px 300px; /* Mantener el margen actual del párrafo */
+    margin: 10px 200px; /* Mantener el margen actual del párrafo */
 }
 
 
